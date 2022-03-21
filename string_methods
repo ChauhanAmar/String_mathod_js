@@ -1,0 +1,10 @@
+//String Escape character......
+let mySen="This is Amar Chauhan \"from\" Gorakhpur.\n";
+let mySen1='This is Amar Chauhan "from" Gorakhpur.\n';
+let mySen2='This is Amar Chauhan \'from\' Gorakhpur.\n';
+let mySen3="This is Amar Chauhan 'from' Gorakhpur.\n";
+console.log(mySen,mySen1,mySen2,mySen3);
+
+String.lastIndexOf(SearchValue[,fromIndex])
+const myData="I am Amar Chauhan."
+console.log(myData.lastIndexOf("ar",11));
