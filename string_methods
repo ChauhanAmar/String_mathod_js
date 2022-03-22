@@ -8,3 +8,7 @@ console.log(mySen,mySen1,mySen2,mySen3);
 String.lastIndexOf(SearchValue[,fromIndex])
 const myData="I am Amar Chauhan."
 console.log(myData.lastIndexOf("ar",11));
+
+//Time methods
+let currTime= new Date();
+console.log(currTime);
